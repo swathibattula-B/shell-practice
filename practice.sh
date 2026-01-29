@@ -1,6 +1,8 @@
 #!/bin/bash
 PERSON1="dog"
 PERSON2="cat"
+
+
 echo "Hello, $PERSON1!"
 echo "Welcome to bash scripting, $PERSON2."
 echo "my name is $PERSON1."
